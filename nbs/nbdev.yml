@@ -1,0 +1,9 @@
+project:
+  output-dir: _docs
+
+website:
+  title: "zorios"
+  site-url: "https://xrsrke.github.io/zorios"
+  description: "A physics enginge"
+  repo-branch: main
+  repo-url: "https://github.com/xrsrke/zorios"
