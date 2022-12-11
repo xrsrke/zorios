@@ -8,7 +8,7 @@ import sympy as smp
 
 from .core import *
 
-# %% ../nbs/01_energy.ipynb 8
+# %% ../nbs/01_energy.ipynb 9
 class Work:
     def magnitude(
         self,
@@ -19,12 +19,12 @@ class Work:
     ):
         pass
 
-# %% ../nbs/01_energy.ipynb 10
+# %% ../nbs/01_energy.ipynb 11
 class Power:
     def magnitude(self, work):
         pass
 
-# %% ../nbs/01_energy.ipynb 12
+# %% ../nbs/01_energy.ipynb 13
 class KineticEnergy:
     def magnitude(
         self,
@@ -36,6 +36,6 @@ class KineticEnergy:
         
         return (1/2) * mass * velocity
 
-# %% ../nbs/01_energy.ipynb 25
+# %% ../nbs/01_energy.ipynb 29
 class PotentialEnergy:
     pass
